@@ -1,0 +1,12 @@
+body{
+    display: block;
+    margin: auto;
+    position: absolute;
+    left: 15em;
+    top: 3rem;
+}
+#increment-btn{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
